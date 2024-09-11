@@ -1,16 +1,28 @@
 # material-recommendations-for-reactnative
 
 ## Library
+This sections is all library i suggest for check how use tools or elements for development  and it have different resources.
+
 - [React Native Elements](https://reactnativeelements.com/)
 - [React Navigation](https://reactnavigation.org/)
 - [React Native Async Storage](https://react-native-async-storage.github.io/async-storage/)
+- [Reactotron](https://github.com/infinitered/reactotron)
+- [React Native Testing Library](https://callstack.github.io/react-native-testing-library/docs/start/quick-start)
+- [Jest](https://github.com/jestjs/jest)
+
 
 ## Suggested Repos
+
+This sections is all repos i suggest for check how create structure project and it have different resources.
 
 - [Bluesky App ](https://github.com/bluesky-social/social-app)
 - [Ignite](https://github.com/infinitered/ignite/tree/master/boilerplate)
 - [React native boilerplate](https://github.com/thecodingmachine/react-native-boilerplate)
 - [Awesome React Native](https://github.com/jondot/awesome-react-native)
+- [React Patterns](https://www.patterns.dev/react/)
+- [Advanced React Pattern](https://github.com/epicweb-dev/advanced-react-patterns)
+- [React native resource](https://github.com/vanGalilea/react-native-testing) 
+
 ## Suggested Architecture Folders
 
 A common architecture for React Native projects includes:
